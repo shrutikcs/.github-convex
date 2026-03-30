@@ -7,4 +7,4 @@
 * [Documentation](https://docs.convex.dev): Learn the basics and get started.
 * [Discord](https://convex.dev/community): Talk with other Convex users and get help with implementing Convex for your project.
 * [Stack](https://stack.convex.dev): Perspectives, tutorials, and blog posts about Convex best practices and ecosystem musings.
-* [Twitter](https://twitter.com/convex_dev): Updates on what we have going on.
+* [Twitter](https://twitter.com/convex): Updates on what we have going on.
